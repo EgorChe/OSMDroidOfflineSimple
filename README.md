@@ -24,3 +24,14 @@
 ```
 
 Для запуска проекта можно скачать уже готовый [ZIP файл](http://www.dropwizard.io/1.0.2/docs/).
+
+## Незабудьте добавить в проект 
+### В Android Manifest
+```
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+### В build.gradle
+```
+    compile 'org.osmdroid:osmdroid-android:6.0.1'
+```
