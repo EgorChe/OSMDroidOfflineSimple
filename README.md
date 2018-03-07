@@ -14,9 +14,7 @@
 
 Карты готовы и сохранены в формате ZIP.
 
-![Скриншот](https://github.com/EgorChe/OSMDroidOfflineSimple/raw/master/image/image.png)
-
-
+![Скриншот](https://github.com/EgorChe/OSMDroidOfflineSimple/blob/master/image/image.PNG)
 
 ## Добавление карт на мобильное устройство
 
