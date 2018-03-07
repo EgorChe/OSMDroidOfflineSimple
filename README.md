@@ -1,6 +1,6 @@
 # OSMDroidOfflineSimple
 
-Пример использования оффлайн карт и [osmdroid](https://github.com/osmdroid/osmdroid).
+Пример использования оффлайн карт и [osmdroid](https://github.com/osmdroid/osmdroid) на Java и Kotlin.
 
 ## Подготовка плиток карты (map tiles)
 1. Для этого надо скачать [Mobile Atlas Creator](http://mobac.sourceforge.net/).
