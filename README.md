@@ -23,7 +23,7 @@
 /mnt/sdcard/osmdroid/tiles.zip
 ```
 
-Для запуска проекта можно скачать уже готовый [ZIP файл](http://www.dropwizard.io/1.0.2/docs/).
+Для запуска проекта можно скачать уже готовый [ZIP файл](https://github.com/EgorChe/OSMDroidOfflineSimple/raw/master/tiles/tiles.zip).
 
 ## Незабудьте добавить в проект 
 ### В Android Manifest
