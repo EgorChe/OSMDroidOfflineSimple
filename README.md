@@ -43,4 +43,4 @@ mapView.setTileSource(new XYTileSource(final String aName, final int aZoomMinLev
 			final int aZoomMaxLevel, final int aTileSizePixels, final String aImageFilenameEnding,
 			final String[] aBaseUrl)
 ```
-Надо в открыть файл ZIP и название папки и будет aName.
+Надо в открыть ZIP файл название первой папки и будет aName.
