@@ -35,3 +35,12 @@
 ```
     compile 'org.osmdroid:osmdroid-android:6.0.1'
 ```
+
+## Важный момент
+Чтобы узнать aName из конструктора:
+```
+mapView.setTileSource(new XYTileSource(final String aName, final int aZoomMinLevel,
+			final int aZoomMaxLevel, final int aTileSizePixels, final String aImageFilenameEnding,
+			final String[] aBaseUrl)
+```
+Надо в открыть файл ZIP и название папки и будет aName.
