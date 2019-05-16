@@ -25,7 +25,7 @@
 
 Для запуска проекта можно скачать уже готовый [ZIP файл](https://github.com/EgorChe/OSMDroidOfflineSimple/raw/master/tiles/tiles.zip).
 
-## Незабудьте добавить в проект 
+## Не забудьте добавить в проект 
 ### В Android Manifest
 ```
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
